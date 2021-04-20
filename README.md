@@ -18,12 +18,13 @@ root@localhost # cd RSecxXx-CCTV
 
 root@localhost # python3 cam-hackers.py
 
-===========================
-=      # Donations        =
-===========================
+# Donate
+
 # DANA/OVO/GOPAY
 +6285600006369
-# Atas Nama
-REYNALDY ZANUAR RAMADHAN
 
-Contact WhatsApp: wa.me/+6285600006369 (Rey)
+# Atas Nama
+
+# REYNALDY ZANUAR RAMADHAN
+
+# Contact WhatsApp: wa.me/+6285600006369 (Rey)
