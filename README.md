@@ -25,9 +25,15 @@ root@localhost # python3 cam-hackers.py
 
 # Paypal & Bitcoin Wallet
 
+# Paypal
 ```
-#bash
 paypal.me/reynaldyzanuar
+```
+!
+# Bitcoin
+Address
+```
+bc1q9as2a2twj7zq9p3nk6u8pv66evdm79y4k3dynz
 ```
 
 # Atas Nama
