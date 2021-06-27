@@ -23,6 +23,13 @@ root@localhost # python3 cam-hackers.py
 # DANA/OVO/GOPAY
 +6285600006369
 
+# Paypal & Bitcoin Wallet
+
+```
+#bash
+paypal.me/reynaldyzanuar
+```
+
 # Atas Nama
 
 # REYNALDY ZANUAR RAMADHAN
